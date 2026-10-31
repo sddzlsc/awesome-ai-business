@@ -416,6 +416,17 @@ RAG系统评估框架。
 
 **GitHub**: [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
 
+#### 4. agent-qa
+
+自然语言驱动的 Web、Android 与 iOS 测试工具。
+
+**Features**:
+- memidex 持久记忆与经验证的自我改进
+- 运行证据与可追溯的测试结果
+- CLI、MCP 和编码助手技能
+
+**Website**: [vostride](https://vostride.com) · **GitHub**: [vostride/agent-qa](https://github.com/vostride/agent-qa)
+
 ---
 
 ## Industry Applications
